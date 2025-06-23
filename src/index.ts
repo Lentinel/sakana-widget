@@ -289,7 +289,7 @@ class SakanaWidget {
     ctrl.appendChild(magic);
     const github = document.createElement('a');
     github.className = itemClass;
-    github.href = '//github.com/dsrkafuu/sakana-widget';
+    github.href = '//github.com/Lentinel/plugin-Sakana-widget-Halo';
     github.target = '_blank';
     github.innerHTML = svgGitHub;
     if (this._options.title) {
